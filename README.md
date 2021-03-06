@@ -1,6 +1,7 @@
 # POBR-detection
 
 Project for university course Digital Image Processing
+
 Detection BP logo using flood fill algorithm
 
 ### Prerequisities
